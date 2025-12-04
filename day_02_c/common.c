@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define BUFFER_SIZE 64
+#define BUFFER_SIZE 1024
 
 int handle_file(char *file_path,
                 uint64_t (*callback)(char *, int, int, int, int)) {
@@ -73,6 +73,7 @@ int handle_file(char *file_path,
     }
   }
 
+  printf("Result = %ld\n", result);
   fclose(file);
   return 0;
 }
