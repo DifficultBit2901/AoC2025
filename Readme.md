@@ -26,3 +26,6 @@ Everything was tested to work on linux, other OSs aren't guaranteed to work
 
 ### Day 2
 - cc (GNU C Compiler, part of gcc)
+
+### Day 3
+- Zig
