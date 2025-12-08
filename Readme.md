@@ -25,7 +25,10 @@ Everything was tested to work on linux, other OSs aren't guaranteed to work
 - c3c (The c3 compiler)
 
 ### Day 2
-- cc (GNU C Compiler, part of gcc)
+- gcc 
 
 ### Day 3
 - Zig
+
+### Day 3
+- python3
