@@ -22,13 +22,16 @@ Everything was tested to work on linux, other OSs aren't guaranteed to work
 ## Dependencies/Requirements
 
 ### Day 1
-- c3c (The c3 compiler)
+- C3 Compiler
 
 ### Day 2
 - gcc 
 
 ### Day 3
-- Zig
+- Zig Compiler
 
-### Day 3
+### Day 4
 - python3
+
+### Day 5
+- Rust Compiler
